@@ -1,5 +1,7 @@
 <?php include("header.php");?>
 
+<p><img src="tenor.gif" alt=""></p>
+
 <form action="handleLogin.php" method="post">
 
 <input type="text" name="username" id="" placeholder="Username"> <br>
